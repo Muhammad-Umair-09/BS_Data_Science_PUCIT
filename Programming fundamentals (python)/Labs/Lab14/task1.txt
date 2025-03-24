@@ -1,0 +1,5 @@
+Create a BMP file in paintbrush of any width and height, and note the both on paper.
+
+Open file in rb+ mode, seek and read width as 4 bytes of image stored in header of BMP, later do the same with height. Convert bytes to integer using int.from_bytes function and display the width and height of image on screen. Compare it with written on paper.
+
+Now seek again the height of BMP and update it with half of the original height. Lastly close the file, and view the BMP in paintbrush again.

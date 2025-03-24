@@ -1,0 +1,16 @@
+import sys
+
+print(2, 4, 3.675, True, "Hello")
+print(2, 4, 3.675, True, "Hello", sep="\t")
+print(2, 4, 3.675, True, "Hello", sep="\n")
+print(2, 4, 3.675, True, "Hello", sep="")
+print(2, 4, 3.675, True, "Hello", sep="~~~~~~~~~~")
+print(2, 4, 3.675, True, "Hello", end="************")
+#print(2, 4, 3.675, True, "^^^^^^^^^^^^^", file=)
+print(2, 4, 3.675, True, "Hello")
+print(2, 4, 3.675, True, ":::::::::::::::::::::::::::::::::::::::::::::", flush=True)
+print(2, 4, 3.675, True, "Hello")
+print(2, 4, 3.675, True, "Hello")
+print(2, 4, 3.675, True, "Hello")
+print(2, 4, 3.675, True, "Hello")
+print(2, 4, 3.675, True, "Hello")

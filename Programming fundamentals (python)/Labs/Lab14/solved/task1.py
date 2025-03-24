@@ -1,0 +1,12 @@
+f=open("file.bmp","rb+")
+f.seek(18)
+w=int.from_bytes(f.read(4),byteorder="little")
+print("Width:",w)
+h=int.from_bytes(f.read(4),byteorder="little")
+print("Height:",h)
+h1=int(h/2)
+f.seek(22)
+f.write(h1.to_bytes(4,byteorder="little"))
+
+print(f'width={w} and height={h1}')
+f.close()
