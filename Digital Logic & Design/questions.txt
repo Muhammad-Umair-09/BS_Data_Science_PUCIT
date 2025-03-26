@@ -1,0 +1,19 @@
+1.Construct 16×1 using appropriate numbers of 4×1 with enable input active low
+2.Design 4 bit binary adder that does A+B with appropriate number of binary adders
+3. Design 8×1 using 3×8 decoder and external Circuitry
+4.Design code converter
+8 4 -2 -1 and input and 2's complement as output
+5. A and B are 4 bit numbers 
+Find A>=B when A= A³A²A¹A⁰ and B=B³B²B¹B⁰
+6. Assume we have to design BCD to Excess-3 code converter using multiplexers with
+inputs A,B, C, D and outputs W.X,Y,Z. Keep variables A, B and C as select lines to the
+multiplexer. What size of MUX is required to implement the above function? Also
+mention how many multiplexers are required?
+7. Number of decoder required that take 3 bit as input and generate its square as output
+8. Design a Circuit which multiplies 4 bit number with 2 bit number and use binary adders to make it
+9.assume we have to implement full subtractor circuit using Multiplexer. Answer the
+following
+Size of MUX
+Number of MUX
+10. Counter using RS
+11. Priority encoder
