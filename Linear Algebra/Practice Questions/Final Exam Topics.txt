@@ -1,0 +1,4 @@
+Topics for the Final Exam:
+1. Chp 4 (4.1 to 4.7) [You can skip examples of polynomial spaces]
+2. Chp 5 (5.1 to 5.3)
+3. Chp 6 (6.1 to 6.5) [Skip QR factorization in 6.4 and consequently Theorem 15 related 'Alternative Calculations of Least-Squares Solutions' in 6.5]
